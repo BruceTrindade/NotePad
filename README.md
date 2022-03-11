@@ -13,3 +13,4 @@ O algortimo em si tem que ser bom independete da máquina.
 - Semi volátil - persiste a informação por um tempo definido
 
 1 byte é igual a 8 bits
+
